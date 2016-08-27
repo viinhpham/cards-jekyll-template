@@ -1,7 +1,7 @@
 # Site settings
 title: Vinh Pham - Senior Java Developer
 description: A blog about technologies and framework
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/viinhpham.github.io" # the subpath of your site, e.g. /blog
 url: "https://viinhpham.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
