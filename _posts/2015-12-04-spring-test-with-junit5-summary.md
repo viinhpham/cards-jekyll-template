@@ -17,4 +17,6 @@ introduction: Spring test with JUNIT5 summary
 
 ## Spring test with JUNIT5 summary
 
-> ![](/viinhpham.github.io/uploads/junit-5.png){: width="3631" height="5145"}
+ ```
+ ![](/viinhpham.github.io/uploads/junit-5.png){: width="3631" height="5145"}
+ ```
